@@ -1,4 +1,5 @@
 import { useState } from 'react';
+import { useEffect } from 'react';
 
 const WeatherSearch = (props) => {
     const [city, setCity] = useState('');

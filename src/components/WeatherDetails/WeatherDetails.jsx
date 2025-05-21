@@ -1,5 +1,4 @@
 const WeatherDetails = (props) => {
-  console.log('WeatherDetails props:', props);
   return (
   <section>
     <h2>Weather Details</h2>
